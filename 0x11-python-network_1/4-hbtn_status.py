@@ -2,6 +2,7 @@
 """
 Use requests package to make a get request to given URL
 """
+import sys
 import requests
 
 if __name__ == "__main__":
